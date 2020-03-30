@@ -12,7 +12,7 @@ class LoginTests(unittest.TestCase):
         self.ts = TestStatus(self.driver)
 
     def gitdemo(self):
-        pass
+        print("")
 
 
     def test_validLogin(self):
