@@ -14,6 +14,7 @@ class LoginTests(unittest.TestCase):
     def gitdemo(self):
         pass
 
+
     def test_validLogin(self):
         self.lp.login("test@email.com", "abcabc")
         result1 = self.lp.verifyLoginTitle()
