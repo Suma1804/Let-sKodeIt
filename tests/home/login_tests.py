@@ -11,6 +11,9 @@ class LoginTests(unittest.TestCase):
         self.lp = LoginPage(self.driver)
         self.ts = TestStatus(self.driver)
 
+    def gitdemo(self):
+        pass
+
     def test_validLogin(self):
         self.lp.login("test@email.com", "abcabc")
         result1 = self.lp.verifyLoginTitle()
