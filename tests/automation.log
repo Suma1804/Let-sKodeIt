@@ -1,0 +1,8 @@
+03/29/2020 04:45:54 PM - NavigationPage - INFO: Element not found with locator: My Courses and locatorType: link
+03/29/2020 04:45:54 PM - NavigationPage - INFO: Cannot click on the element with locator: My Courses locatorType: link
+ge - INFO: Element found with locator: user_email and  locatorType: id
+03/29/2020 04:45:46 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+03/29/2020 04:45:46 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+03/29/2020 04:45:46 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+03/29/2020 04:45:46 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+03/29/2020 04:45:50 PM - LoginPage - INFO: Cannot click on the element with locator: commit locatorType: name

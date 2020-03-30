@@ -1,0 +1,47 @@
+03/29/2020 04:42:13 PM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+03/29/2020 04:42:13 PM - Util - INFO: Expected Text From Application Web UI --> :: Let's Kode It
+03/29/2020 04:42:13 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+SSFUL :: + Enrollment Failed Verification
+03/29/2020 04:41:38 PM - TestStatus - INFO: test_invalidEnrollment ### TEST SUCCESSFUL
+03/29/2020 04:42:13 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verification
+03/29/2020 04:42:13 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+03/29/2020 04:42:13 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+catorType: xpath
+03/29/2020 04:40:47 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(03/29/2020 04:41:49 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+03/29/2020 04:41:49 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+03/29/2020 04:41:55 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
+03/29/2020 04:41:55 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+03/29/2020 04:41:55 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
+03/29/2020 04:41:55 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+03/29/2020 04:41:55 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+03/29/2020 04:42:01 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+03/29/2020 04:42:04 PM - LoginPage - INFO: Element not found with locator: Login and locatorType: link
+03/29/2020 04:42:04 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+03/29/2020 04:42:07 PM - LoginPage - INFO: Element not found with locator: user_email and locatorType: id
+03/29/2020 04:42:07 PM - LoginPage - INFO: Cannot send data on the element with locator: user_email locatorType: id
+03/29/2020 04:42:10 PM - LoginPage - INFO: Element not found with locator: user_password and locatorType: id
+03/29/2020 04:42:10 PM - LoginPage - INFO: Cannot send data on the element with locator: user_password locatorType: id
+03/29/2020 04:42:13 PM - LoginPage - INFO: Element not found with locator: commit and locatorType: name
+03/29/2020 04:42:13 PM - LoginPage - INFO: Cannot click on the element with locator: commit locatorType: name
+03/29/2020 04:42:13 PM - LoginPage - INFO: Element found with locator: //div[@id='navbar']//li[@class='dropdown'] and  locatorType: xpath
+03/29/2020 04:42:13 PM - LoginPage - INFO: Element present with locator: //div[@id='navbar']//li[@class='dropdown'] locatorType: xpath
+esPage - INFO: Cannot send data on the element with locator: search-courses locatorType: id
+03/29/2020 04:41:17 PM - RegisterCoursesPage - INFO: Element not found with locator: search-course-button and locatorType: id
+03/29/2020 04:41:17 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: search-course-button locatorType: id
+03/29/2020 04:41:21 PM - RegisterCoursesPage - INFO: Element not found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'Learn Python 3 from scratch')] and locatorType: xpath
+03/29/2020 04:41:21 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'Learn Python 3 from scratch')] locatorType: xpath
+03/29/2020 04:41:25 PM - RegisterCoursesPage - INFO: Element not found with locator: enroll-button-top and locatorType: id
+03/29/2020 04:41:25 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: enroll-button-top locatorType: id
+03/29/2020 04:41:28 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
+03/29/2020 04:41:28 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
+03/29/2020 04:41:31 PM - RegisterCoursesPage - INFO: Element found with locator: exp-date and  locatorType: name
+03/29/2020 04:41:31 PM - RegisterCoursesPage - INFO: Sent data on element with locator: exp-date locatorType: name
+03/29/2020 04:41:34 PM - RegisterCoursesPage - INFO: Element found with locator: cvc and  locatorType: name
+03/29/2020 04:41:34 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cvc locatorType: name
+03/29/2020 04:41:37 PM - RegisterCoursesPage - INFO: Element found with locator: postal and  locatorType: name
+03/29/2020 04:41:37 PM - RegisterCoursesPage - INFO: Sent data on element with locator: postal locatorType: name
+03/29/2020 04:41:37 PM - RegisterCoursesPage - INFO: Element found with locator: agreed_to_terms_checkbox and  locatorType: id
+03/29/2020 04:41:37 PM - RegisterCoursesPage - INFO: Clicked on element with locator: agreed_to_terms_checkbox locatorType: id
+03/29/2020 04:41:38 PM - RegisterCoursesPage - INFO: Element found with locator: confirm-purchase and  locatorType: id
+03/29/2020 04:41:38 PM - RegisterCoursesPage - INFO: Attribute value From Application Web UI --> :: btn btn-primary spc__button is-disabled
+03/29/2020 04:41:38 PM - RegisterCoursesPage - ERROR: Element :: 'Enroll Button' state could not be found
